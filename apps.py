@@ -2,7 +2,7 @@ import customtkinter as ctk
 import subprocess
 import os
 
-# Ruta al motor ADB en tu disco E:
+# Ruta al motor ADB en tu disco:
 adb_path = r"E:\platform-tools-latest-windows\platform-tools\adb.exe"
 
 class EstacionMando(ctk.CTk):
